@@ -1,0 +1,57 @@
+/* ===== 會員端共用黑金風格 ===== */
+
+body {
+    background-color: #111;
+    color: white;
+    font-family: "Microsoft JhengHei", sans-serif;
+}
+
+a, p, h1, h2, h3, h4, h5, h6, li, td, th {
+    color: white !important;
+}
+
+.card {
+    background: #000 !important;
+    border: 2px solid gold !important;
+    color: white !important;
+}
+
+.btn-gold,
+.btn-primary,
+.btn-success,
+.btn-secondary {
+    background-color: gold !important;
+    color: black !important;
+    font-weight: bold;
+    border: none !important;
+}
+
+.btn-gold:hover,
+.btn-primary:hover,
+.btn-success:hover,
+.btn-secondary:hover {
+    background-color: #e0b800 !important;
+    color: black !important;
+}
+
+.table {
+    color: white !important;
+}
+
+.table thead {
+    background: gold !important;
+    color: black !important;
+}
+
+input, select {
+    background: #222 !important;
+    color: white !important;
+    border: 1px solid gold !important;
+}
+
+.box {
+    background: #000;
+    border: 2px solid gold;
+    padding: 20px;
+    border-radius: 10px;
+}
